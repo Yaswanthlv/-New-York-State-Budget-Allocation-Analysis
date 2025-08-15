@@ -132,8 +132,8 @@ This dashboard aims to:
 
 ## 🧑‍💻 Contributors
 
-- Harika (dashboard design, data cleaning)
-- [Add more contributors if applicable]
+- Leena Balagalu (https://github.com/LeenaBalagalu)
+
 
 ---
 
